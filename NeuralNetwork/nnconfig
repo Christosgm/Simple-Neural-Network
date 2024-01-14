@@ -1,0 +1,17 @@
+2 40 40 40 4
+ReLU ReLU ReLU Sigmoid
+0.01
+700
+2000
+0.001
+100
+
+/*
+1: Network Architecture
+2: Network.Layer Network.Activation Functions (None ReLU TanH Sigmoid)
+3: Learning Rate
+4: Minimum Epochs
+5: Maximum Epochs
+6: Convergence Epsilon
+7: Batch Size
+*/
