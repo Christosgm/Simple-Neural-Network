@@ -39,6 +39,8 @@ ReLU ReLU ReLU Sigmoid
 7: Batch Size
 */
 ```
+# Plotting
+Run `python3 plot_nn.py` to plot the classification result and loss graph (dependencies: numpy, matplotlib)
 # Results
 8000 points in ([-1, 1], [-1, 1]) 50% split train-test
 
